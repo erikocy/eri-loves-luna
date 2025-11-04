@@ -1,0 +1,26 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 50px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    background: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: lightcoral;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    
+}
+
+h2 {
+    color: lightcyan;
+}
+
+img{
+   width:250px; 
+}
